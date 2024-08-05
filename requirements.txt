@@ -1,6 +1,6 @@
 streamlit==1.7.0
 opencv-python-headless==4.5.5.62
-numpy>=1.21.2,<1.22  # Match the numpy requirement for opencv-python-headless
+numpy==1.21.2
 tensorflow  # Specify a compatible version if necessary, e.g., tensorflow==2.6.0
 face_recognition==1.3.0
 protobuf==3.20.0
