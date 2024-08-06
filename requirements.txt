@@ -6,9 +6,6 @@ opencv-python
 face-recognition
 tensorflow
 cmake
-dlib==19.22.1 
+dlib
 
 
-
-
-# pip install --upgrade streamlit
