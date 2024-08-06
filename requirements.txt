@@ -5,5 +5,3 @@ pandas
 opencv-python-headless
 face-recognition
 tensorflow
-dlib
-cmake
