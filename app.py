@@ -16,12 +16,7 @@ MAX_SEQ_LENGTH = 20
 NUM_FEATURES = 2048
 SEQ_LENGTH = 20
 
-# Check if dlib is installed
-try:
-    import dlib
-except ImportError:
-    # Run the build script to install dlib
-    subprocess.run(['./build.sh'], check=True)
+
 
 # Function to extract face from frames
 def crop_face_center(frame):
