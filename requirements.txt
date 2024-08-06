@@ -2,9 +2,8 @@ streamlit
 numpy
 keras
 pandas
-opencv-python
+opencv-python-headless
 face-recognition
 tensorflow
-https://github.com/astraai45/DeepFake-Detection/blob/main/Dlib-python%20whl%20packages/dlib-19.22.99-cp39-cp39-win_amd64.whl
-
-
+dlib
+cmake
