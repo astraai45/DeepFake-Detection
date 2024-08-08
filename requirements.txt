@@ -5,4 +5,4 @@ pandas
 opencv-python-headless
 face-recognition
 tensorflow
-dlib-binary
+dlib==19.22.99
